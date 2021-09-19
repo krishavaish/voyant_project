@@ -76,8 +76,45 @@ factory|work*|wealth*|industry|production|machine*
   The most interesting result came while exploring the theme of violence. The industrial revolution caused a lot of class tensions which would often result in outbreaks of violence. When looking up the word "fight", corpus 1 returned the words "man" and "duel". This shows fighting to be an individual activity and not a group activity. When the same word was looked up in corpus 2, we found  that violence was associated with "King", "English" and "great". These words show a group mentality when it comes to violence, i.e., violence executed at scale by a formal power. Similar trends were seen with other words too. "Riot" was associated with "debauchery" and "dissipation" in corpus 1, but in corpus 2 we again see group dynamics come into play as we see it being associated with "arose", "altogether" and "assemblages". Here we see a certain unified-ness being attributed to the word riot. Even with the word "mob", while nothing of interest came up in corpus 1, in corpus 2, "mob" was associated with "bethinking" which gives mobs a thinking quality. Again for a mob to be thinking, the prerequisite is for it to be unified. 
 
   While these are interesting findings, it would be a longshot to say that they are significant. An uptick in violence or even a change in its nature does not signify that this had a lot to do with the industrial revolution. In the same time period, the UK experienced the potato famine, new taxation policies and also a general lack of faith in their declining colonial power. Any one of these incidents (or all of them together) could offer possible explanations as to why we see a change in the nature of violence.
+  
 *Corpus 1:* 
+
 <iframe style='width: 509px; height: 358px;' src='https://voyant-tools.org/tool/CorpusTerms/?query=hunger*&query=hunger&query=hungry*&query=servant*&query=servant&query=poor*&query=poor&query=riot*&query=riot&query=crime*&query=violence*&query=mob*&query=fight*&query=sick*&query=violence&corpus=b3759ac665b9ae81bf04e31421f23781'data-external='1'></iframe> 
 
 *Corpus 2:* 
+
 <iframe style='width: 509px; height: 358px;' src='https://voyant-tools.org/tool/CorpusTerms/?query=hunger*&query=hunger&query=servant*&query=servant&query=poor*&query=poor&query=violence*&query=riot*&query=fight*&query=fight&query=mob*&query=crime&corpus=321ac1c06fcf8d0c249f71294d7f8f0a'data-external='1'></iframe> 
+
+**Tool 3: DreamScape**
+	In another attempt to find a trend before and after the Revolutions of 1848, we looked at the DreamScape option. This option allowed us to look at the trends in geographical references by adding two different filters with Corpus 1 & Corpus 2. Ideally, we would have benefited from visually representing the trends in connections to and from specific countries, coupled with their frequency, but this was the closest we could get. This is important to analyse due to the historical context of our research question itself. The Republican revolts leading to revolutions in the countries of France, Germany, Italy, and Austria were at the center of the conflict we are analysing the effect of, therefore it is safe to assume that references to these country names or citizens would increase after 1848. Hence, we made the DreamScape to represent the mapping, which we found to be more or less similar in both corpora. 
+
+<iframe style='width: 477px; height: 348px;' src='https://voyant-tools.org/tool/DreamScape/?corpus=affb58168dd59d2a279b36e264b6829c'data-external='1'></iframe>
+
+  We then used the earlier frequency tool for references to the 4 countries, where we saw a significant rise in the peaks in novels after 1848, using:
+
+france|french|ital*|austria*|german*
+
+<iframe style='width: 477px; height: 348px;' src='https://voyant-tools.org/tool/Trends/?query=france%7Cfrench%7Cital*%7Caustria*%7Cgerman&corpus=affb58168dd59d2a279b36e264b6829c'data-external='1'></iframe>
+
+  The highest references were in A Child’s History of England, written in 1851, which makes sense due to the theme of the book. 
+
+**Conclusion**
+  The results of our analysis nullify our hypothesis, since we see very clearly the underwhelming impact of the Revolutions of 1848 on Dickens’ use of words, correlations, and geographical coverage. We do see an increase in references to the countries that were hit by conflict in 1848. In conclusion, it seems as though social upheavals impacted Dickens’ writing less than one might assume, or maybe there is an impact on a much deeper level that can be captured with more advanced tools.
+
+**Reflection**
+  This exercise offered us a unique opportunity of exploring the impact of a historical social event on the specifics of an author’s writing, something neither of us had thought was possible with historical, physical novels before this course due to the dense nature of books. Because of Dickens’ appeal to the ‘popular choices’ of the masses, it made intuitive sense that the content of his books would be moulded with what was most talked about. Several things happened during his lifetime that could count as important, historical events, but the Revolutions of 1848 happened to be in the middle so we can have enough books in each corpus. We also spent a lot of time trying to figure out the different themes to look at in order to see Dickens’ focus on different concepts, including class, labour, food, houses, staff, and emotions. Surely, it was disappointing to see our hypothesis nullified, but that makes it all the more interesting: How can a historical event so huge, that was increasingly flaming aggression in the middle class, not have been something Dickens took advantage of? Maybe appealing to the masses is not what he was focusing on. 
+  
+  Voyant as a tool is certainly important and helpful, but the process of not finding results we hypothesized makes us wonder: Is there an easier way? The user interface of Voyant itself is highly taxing, there is so much happening all in one screen, with a lot more hidden away. The weaknesses of Voyant as an analysis tool manifest in this incongruence, as changes in thematic elements of books cannot be captured simply by examining trends in word and word cluster frequency, there is more happening there. 
+  
+**Works Cited**
+  Jann, Rosemary. “FACT, FICTION, AND INTERPRETATION IN ‘A CHILD’S HISTORY OF ENGLAND.’” Dickens Quarterly, vol. 4, no. 4, The Johns Hopkins University Press, 1987, pp. 199–205, http://www.jstor.org/stable/45291213.
+
+  “Dickens: Law and Politics.” it.info. https://crossref-it.info/textguide/great-expectations/5/416. Accessed 16 Sept. 2021.
+
+  Bowen, John. “Great Expectations and Class.” British Library, 15 May 2014, https://www.bl.uk/romantics-and-victorians/articles/great-expectations-and-class. Accessed 16 Sept. 2021.
+
+  Griffin, Emma. “Child Labour.” The British Library, 15 May 2014, www.bl.uk/romantics-and-victorians/articles/child-labour. Accessed 16 Sept. 2021.
+
+  The Editors of Encyclopaedia Britannica. “Revolutions of 1848.” Britannica, www.britannica.com/event/Revolutions-of-1848. Accessed 19 Sept. 2021.
+
+  Shihada, Isam. “Capitalism in Charles Dickens’s Great Expectations: A Critique.” International Journal of English: Literature, Language & Skills, vol. 6, no. 1, Apr. 2017, pp. 42–52.
