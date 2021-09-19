@@ -1,18 +1,18 @@
 ---
-title: "Don’t read a lot of books…with Voyant!"
-author: "Krisha Vaishnav, Paritosh Panda, Vir Singh"
-date: "9/19/2021"
+title: "Project 1: Don’t read a lot of books…with Voyant!"
+date: "19/09/2021"
 output: html_document
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Collaborators: Vir Singh, Krisha Vaishnav, Paritosh Panda
 
 
 
 
 
 
-
-
-
-
-<iframe style='width: 717px; height: 221px;' src='https://voyant-tools.org/tool/Summary/?corpus=affb58168dd59d2a279b36e264b6829c'></iframe>
+<iframe style='width: 717px; height: 221px;' src='https://voyant-tools.org/tool/Summary/?corpus=affb58168dd59d2a279b36e264b6829c'data-external = '1'></iframe>
