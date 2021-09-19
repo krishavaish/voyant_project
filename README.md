@@ -16,14 +16,3 @@
 *Total*: 19 books, almost 4 million total words and 41,724 unique word forms.
 Most frequent words in the corpus: Mr (28,535); said (27,173); little (10,197); Mrs (8,390); sir (8,230)
 
-
-This is a new line with words in *italics* and **bold**.
-
-I would like to make an unordered list: 
-
-- Item 1
-
-- Item 2
-
-- and so on...
-
