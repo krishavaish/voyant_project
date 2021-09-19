@@ -27,6 +27,7 @@ Most frequent words in the corpus: Mr (28,535); said (27,173); little (10,197); 
 <iframe style='width: 717px; height: 221px;' src='https://voyant-tools.org/tool/Summary/?corpus=affb58168dd59d2a279b36e264b6829c'data-external = '1'></iframe>
 
 **Tool 1: Frequency Comparison**
+
   The advent of the industrial revolution brought about major changes in the economic and social spheres of everyday life. More specifically, after the liberation movements in 1848, we expected Dickens’ writing to reflect the current situation through more mentions about the repercussions of the industrial revolution in daily life. For example, a greater divide between the classes and thus increased mentions in his books published 1848 onwards. To check for this, we piped together different search terms that encapsulate the upper and lower classes:
 
 madam|master*|mistress*|lady|lord*|vicar|begging|poor|peasant*|orphan*|servant*|charity|workhouse*|union*|poverty
@@ -64,8 +65,8 @@ factory|work*|wealth*|industry|production|machine*
   In the examination and presentation of the statistical trends that emerge when the literature of Charles Dickens is analysed, the advent of industrialization, and the liberation movement across Europe, saw a change in the thematic elements that came to define his books. There is a lack of congruence in the results when word frequency of relevant, thematic words is analysed. This implies that the allegorical manner of writing does not capture the increasing thematic focus on the horrors of industrialization, child labour, and the growing class divide.
   
 **Tool 2: Collocation and Correlation**
-	
-	Our results from the frequency comparison lay in the realm of political social context, rather than the establishment of an overarching, chronological trend. For this reason, in the collocation and correlation comparison, the context in which these words are used was analysed, in the absence of any discernible trends in the frequency comparison. It is highly possible that the context in which these words are used will change before and after the groundbreaking social and political effects of the industrial revolution were reflected in society. 
+
+  Our results from the frequency comparison lay in the realm of political social context, rather than the establishment of an overarching, chronological trend. For this reason, in the collocation and correlation comparison, the context in which these words are used was analysed, in the absence of any discernible trends in the frequency comparison. It is highly possible that the context in which these words are used will change before and after the groundbreaking social and political effects of the industrial revolution were reflected in society. 
 	
   Initially this analysis was not leading to much. We tried looking at similar word clusters as we did for our frequency study. While trying to look up class distinctions we used the words “poor” and “servant” to check what kinds of sentiments Dickens was feeling towards class at the time.
 
@@ -86,6 +87,7 @@ factory|work*|wealth*|industry|production|machine*
 <iframe style='width: 509px; height: 358px;' src='https://voyant-tools.org/tool/CorpusTerms/?query=hunger*&query=hunger&query=servant*&query=servant&query=poor*&query=poor&query=violence*&query=riot*&query=fight*&query=fight&query=mob*&query=crime&corpus=321ac1c06fcf8d0c249f71294d7f8f0a'data-external='1'></iframe> 
 
 **Tool 3: DreamScape**
+
 	In another attempt to find a trend before and after the Revolutions of 1848, we looked at the DreamScape option. This option allowed us to look at the trends in geographical references by adding two different filters with Corpus 1 & Corpus 2. Ideally, we would have benefited from visually representing the trends in connections to and from specific countries, coupled with their frequency, but this was the closest we could get. This is important to analyse due to the historical context of our research question itself. The Republican revolts leading to revolutions in the countries of France, Germany, Italy, and Austria were at the center of the conflict we are analysing the effect of, therefore it is safe to assume that references to these country names or citizens would increase after 1848. Hence, we made the DreamScape to represent the mapping, which we found to be more or less similar in both corpora. 
 
 <iframe style='width: 477px; height: 348px;' src='https://voyant-tools.org/tool/DreamScape/?corpus=affb58168dd59d2a279b36e264b6829c'data-external='1'></iframe>
@@ -99,14 +101,17 @@ france|french|ital*|austria*|german*
   The highest references were in A Child’s History of England, written in 1851, which makes sense due to the theme of the book. 
 
 **Conclusion**
+
   The results of our analysis nullify our hypothesis, since we see very clearly the underwhelming impact of the Revolutions of 1848 on Dickens’ use of words, correlations, and geographical coverage. We do see an increase in references to the countries that were hit by conflict in 1848. In conclusion, it seems as though social upheavals impacted Dickens’ writing less than one might assume, or maybe there is an impact on a much deeper level that can be captured with more advanced tools.
 
 **Reflection**
+
   This exercise offered us a unique opportunity of exploring the impact of a historical social event on the specifics of an author’s writing, something neither of us had thought was possible with historical, physical novels before this course due to the dense nature of books. Because of Dickens’ appeal to the ‘popular choices’ of the masses, it made intuitive sense that the content of his books would be moulded with what was most talked about. Several things happened during his lifetime that could count as important, historical events, but the Revolutions of 1848 happened to be in the middle so we can have enough books in each corpus. We also spent a lot of time trying to figure out the different themes to look at in order to see Dickens’ focus on different concepts, including class, labour, food, houses, staff, and emotions. Surely, it was disappointing to see our hypothesis nullified, but that makes it all the more interesting: How can a historical event so huge, that was increasingly flaming aggression in the middle class, not have been something Dickens took advantage of? Maybe appealing to the masses is not what he was focusing on. 
   
   Voyant as a tool is certainly important and helpful, but the process of not finding results we hypothesized makes us wonder: Is there an easier way? The user interface of Voyant itself is highly taxing, there is so much happening all in one screen, with a lot more hidden away. The weaknesses of Voyant as an analysis tool manifest in this incongruence, as changes in thematic elements of books cannot be captured simply by examining trends in word and word cluster frequency, there is more happening there. 
   
 **Works Cited**
+
   Jann, Rosemary. “FACT, FICTION, AND INTERPRETATION IN ‘A CHILD’S HISTORY OF ENGLAND.’” Dickens Quarterly, vol. 4, no. 4, The Johns Hopkins University Press, 1987, pp. 199–205, http://www.jstor.org/stable/45291213.
 
   “Dickens: Law and Politics.” it.info. https://crossref-it.info/textguide/great-expectations/5/416. Accessed 16 Sept. 2021.
